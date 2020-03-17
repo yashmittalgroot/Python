@@ -4,7 +4,6 @@
 
 ```python
 is_even = ["Yes" if not i%2 else "No" for i in range(10)]
-print(even_list)
 print(is_even)
 ```
 ```
