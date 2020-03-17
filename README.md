@@ -11,6 +11,7 @@ print(is_even)
 Output:
 ['Yes', 'No', 'Yes', 'No', 'Yes', 'No', 'Yes', 'No', 'Yes', 'No']
 ```
+### 2. List of output of function
 
 ```python
 def odd(even_no):
@@ -22,7 +23,6 @@ print(even_list)
 print(odd_list)
 
 ```
-
 ```
 Output:
 [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
