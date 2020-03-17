@@ -23,3 +23,7 @@ even_list = [i for i in range(20) if not i%2 ]
 odd_list=list(map(odd,even_list))
 print(odd_list)
 ```
+```
+Output:
+[1, 3, 5, 7, 9, 11, 13, 15, 17, 19]
+```
