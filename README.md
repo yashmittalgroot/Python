@@ -1,6 +1,9 @@
-# Sone Python Hacks
+# Some Python Hacks
 
-### 1. List based on some condition
+### 1. List Comprehension
+
+
+#### List based on some condition
 
 ```python
 is_even = ["Yes" if not i%2 else "No" for i in range(10)]
@@ -10,7 +13,7 @@ print(is_even)
 Output:
 ['Yes', 'No', 'Yes', 'No', 'Yes', 'No', 'Yes', 'No', 'Yes', 'No']
 ```
-### 2. List of output of function
+####  List of output of function
 
 ```python
 def odd(even_no):
@@ -28,4 +31,4 @@ Output:
 [1, 3, 5, 7, 9, 11, 13, 15, 17, 19]
 ```
 
-
+### 2. List Comprehension vs Generator Expression
