@@ -50,3 +50,5 @@ Output:
 
 [Link To Article](https://medium.com/swlh/finding-python-b42395ced0c)
 
+### 4. List Concatenation & Join
+[Link To Article](https://towardsdatascience.com/i-thought-i-was-mastering-python-until-i-discovered-these-tricks-e40d9c71f4e2)
