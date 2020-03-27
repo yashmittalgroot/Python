@@ -32,3 +32,19 @@ Output:
 ```
 
 ### 2. List Comprehension vs Generator Expression
+
+Generator Expression is syntactically similar to List Comprehension, but are different based on memory uses. 
+Generator Expression is memory efficient. It gives single object at a time while List Comprehension create a list of value.
+
+When to use: For example is we need to add numbers 1 to aLargeNumber than if we use List Comprehension it create a list of size aLargeNumber but we don't need the list, we need only their sum, it is possible by Generator Expression
+
+Syntax Difference: Use Parenthesis instead of square brackets.
+```python
+objec = (i for i in range(11) if i%2 == 0) 
+print(objec) 
+
+Output:
+<generator object  at 0x000001452B1EEC50>
+```
+
+
