@@ -46,5 +46,7 @@ print(objec)
 Output:
 <generator object  at 0x000001452B1EEC50>
 ```
+### 3. A few tips for manually discovering Python’s features.
 
+[Link To Article](https://medium.com/swlh/finding-python-b42395ced0c)
 
