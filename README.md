@@ -52,3 +52,20 @@ Output:
 
 ### 4. List Concatenation & Join
 [Link To Article](https://towardsdatascience.com/i-thought-i-was-mastering-python-until-i-discovered-these-tricks-e40d9c71f4e2)
+
+### 5. Pointers in python
+[Link To Article](https://realpython.com/pointers-in-python/)
+Python has "name" while C has "variable".
+
+|Type	|Immutable?|
+|---------|--------|
+|int	|Yes|
+|float	|Yes|
+|bool	|Yes|
+|complex|	Yes|
+|tuple	|Yes|
+|frozenset|	Yes|
+|str	|Yes|
+|list	|No|
+|set	|No|
+|dict	|No|
